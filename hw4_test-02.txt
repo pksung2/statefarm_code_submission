@@ -1,0 +1,8 @@
+4
+Clustering and classification are important problems in machine learning.
+There are many machine learning algorithms for classification and clustering problems.
+Classification problems require training data.
+Most clustering problems require user-specified group number.
+SVM, LogisticRegression and NaiveBayes are machine learning algorithms for classification problems.
+k-means, AGNES and DBSCAN are clustering algorithms.
+Dimension reduction methods such as PCA are also learning algorithms for clustering problems.
